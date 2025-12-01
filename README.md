@@ -96,14 +96,6 @@ I build robust, scalable, and secure web applications, combining modern frontend
 
 **Links:** [💻 Code](https://github.com/MostafaRaihan/FrontendMentor) | [🌐 Live Demo](https://raihanfrontendmentor.netlify.app/)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafaraihan&show_icons=true&theme=radical&count_private=true" height="200" alt="Mostafa Raihan GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=mostafaraihan&theme=radical&hide_border=false" height="200" alt="Mostafa Raihan GitHub Streak"/>
-</p>
 
 ---
 
