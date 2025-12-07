@@ -70,35 +70,6 @@ I build robust, scalable, and secure web applications, combining modern frontend
 
 ---
 
-## 📂 Featured Projects
-
-### 🌐 [Portfolio Website](https://mostafaraihan.netlify.app)  
-**Type:** Personal Portfolio Website  
-**Tech Stack:** HTML, CSS, JavaScript, React.js, Next.js  
-**Purpose:** Showcase full-stack projects, skills, and professional profile.  
-**Features:**  
-- Responsive design for desktop and mobile  
-- Dynamic project cards with live links  
-- Smooth animations and interactive UI  
-
-**Links:** [💻 Code](https://github.com/MostafaRaihan/MostafaRaihan.netlify) | [🌐 Live Demo](https://mostafaraihan.netlify.app)
-
----
-
-### 📰 [Frontend Mentor Clone](https://raihanfrontendmentor.netlify.app/)  
-**Type:** Frontend Practice Project  
-**Tech Stack:** HTML, CSS, JavaScript  
-**Purpose:** Pixel-perfect clone to practice UI/UX design  
-**Features:**  
-- Fully responsive layout  
-- Accurate reproduction of design elements  
-- Practiced CSS Grid and Flexbox  
-
-**Links:** [💻 Code](https://github.com/MostafaRaihan/FrontendMentor) | [🌐 Live Demo](https://raihanfrontendmentor.netlify.app/)
-
-
----
-
 
 <p align="center">
   💡 *Thanks for visiting! Let’s build amazing full-stack applications together!* 🚀
