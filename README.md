@@ -69,6 +69,18 @@ I build robust, scalable, and secure web applications, combining modern frontend
 </p>
 
 ---
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mostafraihan/mostafaraihan/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mostafaraihan/mostafraihan/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/mostafaraihan/mostafaraihan/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
+---
 
 <p align="center">
   💡 *Thanks for visiting! Let’s build amazing full-stack applications together!* 🚀
