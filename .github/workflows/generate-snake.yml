@@ -19,7 +19,7 @@ jobs:
       - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3
         with:
-          github_user_name: mostafaraihan
+          github_user_name: raihanstack
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
