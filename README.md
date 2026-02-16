@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/raihanstack/raihanstack/blob/main/Cover.png?raw=true" alt="Mostafa Raihan GitHub Cover Banner" width="100%" />
+  <img src="https://github.com/raihanstack/raihanstack/blob/main/Cover.png" alt="Mostafa Raihan GitHub Cover Banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm <a href="https://raihanstack.github.io/raihanstack">Mostafa Raihan</a></h1>
+<h1 align="center">Hello, I'm Mostafa Raihan</h1>
 <h3 align="center">Full-Stack Developer | REST API Specialist | Backend-Focused</h3>
 
 <p align="center">
